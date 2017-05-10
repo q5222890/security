@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\police\Security\assets"/><source path="D:\police\Security\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\police\Security\build-types\debug\assets"/></dataSet></merger>

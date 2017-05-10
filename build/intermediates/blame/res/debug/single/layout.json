@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_tip_dlg.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_tip_dlg.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_keep_gun_item.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_keep_gun_item.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_activity_keep.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_activity_keep.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_activity_main.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_activity_main.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_as_cab_item.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_as_cab_item.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_top_layout_status.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_top_layout_status.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_activity_status.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_activity_status.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_query_alarm.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_query_alarm.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_activity_query.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_activity_query.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_load_dlg.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_load_dlg.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_change_dlg.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_change_dlg.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_activity_go.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_activity_go.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_settings.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_settings.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\timepicker.xml",
+        "source": "D:\\police\\Security\\res\\layout\\timepicker.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_main_sysinfo_item.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_main_sysinfo_item.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_go_gun_item.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_go_gun_item.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_top_layout_func.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_top_layout_func.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout\\ac_query_oper.xml",
+        "source": "D:\\police\\Security\\res\\layout\\ac_query_oper.xml"
+    }
+]

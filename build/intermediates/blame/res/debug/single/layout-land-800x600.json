@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout-land-800x600\\ac_top_layout_func.xml",
+        "source": "D:\\police\\Security\\res\\layout-land-800x600\\ac_top_layout_func.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\layout-land-800x600\\ac_top_layout_status.xml",
+        "source": "D:\\police\\Security\\res\\layout-land-800x600\\ac_top_layout_status.xml"
+    }
+]

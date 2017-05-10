@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox_spinner_prss.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\textbox_spinner_prss.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spline_checkbox_bg.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_checkbox_bg.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\subcab.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\subcab.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cab.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\cab.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spline_checkbox_bg_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_checkbox_bg_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shortgun.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\shortgun.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\longgun.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\longgun.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textbox_spinner_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\textbox_spinner_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\subcab_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\subcab_press.png"
+    }
+]

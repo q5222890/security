@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 用户皮肤定义1 -->
+    <style name="userThemeOne" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowTitleSize">@dimen/title_size</item>
+        <item name="android:windowTitleBackgroundStyle">@style/ThemeOneMainTitleBackgroundStyle</item>
+        <item name="android:gridViewStyle">@style/ThemeOneMainGridViewStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+        <item name="android:listViewStyle">@style/ThemeOneLisetViewStyle</item>
+         <!-- 用户皮肤定义1 -->
+        <item name="android:textViewStyle">@style/ThemeOneTextViewStyle</item>
+        <item name="android:spinnerStyle">@style/ThemeOneSpinnerStyle</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        <item name="android:windowBackground">@drawable/spline_blue_content_bg</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <!-- 用户皮肤定义2 -->
+    <style name="userThemeTwo" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowTitleSize">@dimen/title_size</item>
+        <item name="android:windowTitleBackgroundStyle">@style/ThemeOneMainTitleBackgroundStyle</item>
+        <item name="android:gridViewStyle">@style/ThemeOneMainGridViewStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+        <item name="android:listViewStyle">@style/ThemeOneLisetViewStyle</item>
+         <!-- 用户皮肤定义1 -->
+        <item name="android:textViewStyle">@style/ThemeOneTextViewStyle</item>
+        <item name="android:spinnerStyle">@style/ThemeOneSpinnerStyle</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        
+        <!--<item name="android:windowBackground">@color/back_color</item>-->
+        <!--<item name="android:windowIsTranslucent">false</item>-->
+        <item name="android:colorBackgroundCacheHint">@android:color/transparent</item>
+
+        <item name="android:windowBackground">@drawable/spline_blue_content_bg</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+        <item name="android:windowAnimationStyle"> @android:style/Animation</item>
+    </style>
+    
+    <style name="changeViewTheme" parent="@style/userThemeOne">
+     	<item name="android:windowIsTranslucent">false</item>
+     </style>
+</resources>

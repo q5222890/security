@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_left.xml",
+        "source": "D:\\police\\Security\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\button_scale.xml",
+        "source": "D:\\police\\Security\\res\\anim\\button_scale.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_right.xml",
+        "source": "D:\\police\\Security\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha_page_change.xml",
+        "source": "D:\\police\\Security\\res\\anim\\anim_alpha_page_change.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\car_no_in.xml",
+        "source": "D:\\police\\Security\\res\\anim\\car_no_in.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\car_no_out.xml",
+        "source": "D:\\police\\Security\\res\\anim\\car_no_out.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_right.xml",
+        "source": "D:\\police\\Security\\res\\anim\\out_to_right.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_left.xml",
+        "source": "D:\\police\\Security\\res\\anim\\out_to_left.xml"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale_page_change.xml",
+        "source": "D:\\police\\Security\\res\\anim\\anim_scale_page_change.xml"
+    }
+]

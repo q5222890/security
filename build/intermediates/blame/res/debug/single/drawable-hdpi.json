@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spline_edittext_bg.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_edittext_bg.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spline_all_btn_bg.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_all_btn_bg.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spline_edittext_bg_press.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_edittext_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_focus.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spinner_focus.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\all_background.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\all_background.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spinner_normal.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spinner_normal.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\spline_all_btn_bg_press.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\spline_all_btn_bg_press.9.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\button_b.9.png",
+        "source": "D:\\police\\Security\\res\\drawable-hdpi\\button_b.9.png"
+    }
+]

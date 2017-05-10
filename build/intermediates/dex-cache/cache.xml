@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.5\6c6c702c89bfff3cd9e80b04d668c5e190d588c6\commons-lang3-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="D:\police\Security\build\intermediates\pre-dexed\debug\commons-lang3-3.5_6af25e63de6d290d36e8484d0514846e4aae9d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\police\Security\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="D:\police\Security\build\intermediates\pre-dexed\debug\android-support-v4_d305232fe5c5652515e52a24a7dc80fd2455eed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\police\Security\libs\fastjson-1.1.34.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bef1d1224be099c387794bce1bdf81b38f37c6ce">
+        <dex dex="D:\police\Security\build\intermediates\pre-dexed\debug\fastjson-1.1.34.android_3669bc17e9f0c4d2b13b7fbcb05719a96d57b4ba.jar" />
+    </item>
+
+</items>

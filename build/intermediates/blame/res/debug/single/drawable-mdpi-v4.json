@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_user_icon.jpg",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_user_icon.jpg"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_chang_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_chang_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_chang_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_chang_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_emergency_go_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_emergency_go_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_go_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_go_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_setting_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_setting_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunstatus_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunstatus_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunkeep_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunkeep_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_emergency_go_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_emergency_go_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_setting_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_setting_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\logo.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_query_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_query_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_back_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_back_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_temper.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_temper.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_net.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_net.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunshot_normal_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunshot_normal_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_help_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_help_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_back_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_back_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_help_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_help_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunshot_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunshot_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunkeep_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunkeep_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_lock_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_lock_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_power.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_power.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_gunstatus_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_gunstatus_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\spline_blue_content_bg.jpg",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\spline_blue_content_bg.jpg"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_func_lock_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_func_lock_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_query_press.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_query_press.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_main_go_normal.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_main_go_normal.png"
+    },
+    {
+        "merged": "D:\\police\\Security\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ac_top_date.png",
+        "source": "D:\\police\\Security\\res\\drawable-mdpi\\ac_top_date.png"
+    }
+]

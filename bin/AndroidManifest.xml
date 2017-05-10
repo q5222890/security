@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wen.security"
+    android:versionCode="100"
+    android:versionName="@string/versionName" >
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.hardware.usb.host" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 禁止休眠 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" >
+    </uses-permission>
+    <!-- 侦听系统启动事件 -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <!-- 侦听系统启动事件 -->
+    <application
+        android:name="com.wen.security.SecurityApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_icons"
+        android:label="@string/app_name"
+        android:theme="@style/userThemeOne" >
+        <receiver android:name="com.wen.security.BootReceiver" >
+
+            <!-- 添加自启动功能 -->
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.wen.security.ui.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityGo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityImGo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityGunback"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityKeep"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityQuery"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name="com.wen.security.ui.ActivityStatus"
+            android:screenOrientation="landscape" >
+        </activity>
+
+        <service android:name="com.wen.security.utils.UploadService" >
+        </service>
+    </application>
+
+</manifest>

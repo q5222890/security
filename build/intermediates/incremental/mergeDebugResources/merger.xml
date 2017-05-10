@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\police\Security\res"/><source path="D:\police\Security\build\generated\res\rs\debug"/><source path="D:\police\Security\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="D:\police\Security\build-types\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\police\Security\res"><file name="anim_alpha_page_change" path="D:\police\Security\res\anim\anim_alpha_page_change.xml" qualifiers="" type="anim"/><file name="anim_scale_page_change" path="D:\police\Security\res\anim\anim_scale_page_change.xml" qualifiers="" type="anim"/><file name="button_scale" path="D:\police\Security\res\anim\button_scale.xml" qualifiers="" type="anim"/><file name="car_no_in" path="D:\police\Security\res\anim\car_no_in.xml" qualifiers="" type="anim"/><file name="car_no_out" path="D:\police\Security\res\anim\car_no_out.xml" qualifiers="" type="anim"/><file name="in_from_left" path="D:\police\Security\res\anim\in_from_left.xml" qualifiers="" type="anim"/><file name="in_from_right" path="D:\police\Security\res\anim\in_from_right.xml" qualifiers="" type="anim"/><file name="out_to_left" path="D:\police\Security\res\anim\out_to_left.xml" qualifiers="" type="anim"/><file name="out_to_right" path="D:\police\Security\res\anim\out_to_right.xml" qualifiers="" type="anim"/><file name="ac_boder" path="D:\police\Security\res\drawable\ac_boder.xml" qualifiers="" type="drawable"/><file name="ac_change_dlg_back" path="D:\police\Security\res\drawable\ac_change_dlg_back.xml" qualifiers="" type="drawable"/><file name="ac_main_apply" path="D:\police\Security\res\drawable\ac_main_apply.xml" qualifiers="" type="drawable"/><file name="ac_main_emergency_go" path="D:\police\Security\res\drawable\ac_main_emergency_go.xml" qualifiers="" type="drawable"/><file name="ac_main_go" path="D:\police\Security\res\drawable\ac_main_go.xml" qualifiers="" type="drawable"/><file name="ac_main_gunkeep" path="D:\police\Security\res\drawable\ac_main_gunkeep.xml" qualifiers="" type="drawable"/><file name="ac_main_gunshot" path="D:\police\Security\res\drawable\ac_main_gunshot.xml" qualifiers="" type="drawable"/><file name="ac_main_gunstatus" path="D:\police\Security\res\drawable\ac_main_gunstatus.xml" qualifiers="" type="drawable"/><file name="ac_main_query" path="D:\police\Security\res\drawable\ac_main_query.xml" qualifiers="" type="drawable"/><file name="ac_query_tb" path="D:\police\Security\res\drawable\ac_query_tb.xml" qualifiers="" type="drawable"/><file name="ac_top_back" path="D:\police\Security\res\drawable\ac_top_back.xml" qualifiers="" type="drawable"/><file name="ac_top_func_change" path="D:\police\Security\res\drawable\ac_top_func_change.xml" qualifiers="" type="drawable"/><file name="ac_top_func_help" path="D:\police\Security\res\drawable\ac_top_func_help.xml" qualifiers="" type="drawable"/><file name="ac_top_func_lock" path="D:\police\Security\res\drawable\ac_top_func_lock.xml" qualifiers="" type="drawable"/><file name="ac_top_func_setting" path="D:\police\Security\res\drawable\ac_top_func_setting.xml" qualifiers="" type="drawable"/><file name="all_button_bg_color" path="D:\police\Security\res\drawable\all_button_bg_color.xml" qualifiers="" type="drawable"/><file name="checkbox_custom_bg_color" path="D:\police\Security\res\drawable\checkbox_custom_bg_color.xml" qualifiers="" type="drawable"/><file name="edittext_custom_bg_color" path="D:\police\Security\res\drawable\edittext_custom_bg_color.xml" qualifiers="" type="drawable"/><file name="float_ad_shadow" path="D:\police\Security\res\drawable\float_ad_shadow.xml" qualifiers="" type="drawable"/><file name="loading_anim" path="D:\police\Security\res\drawable\loading_anim.xml" qualifiers="" type="drawable"/><file name="spinner_custom_one" path="D:\police\Security\res\drawable\spinner_custom_one.xml" qualifiers="" type="drawable"/><file name="text_input_image_buttom_one" path="D:\police\Security\res\drawable\text_input_image_buttom_one.xml" qualifiers="" type="drawable"/><file name="wheel_bg" path="D:\police\Security\res\drawable\wheel_bg.xml" qualifiers="" type="drawable"/><file name="wheel_val" path="D:\police\Security\res\drawable\wheel_val.xml" qualifiers="" type="drawable"/><file name="all_background" path="D:\police\Security\res\drawable-hdpi\all_background.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="button_b" path="D:\police\Security\res\drawable-hdpi\button_b.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="cab" path="D:\police\Security\res\drawable-hdpi\cab.png" qualifiers="hdpi-v4" type="drawable"/><file name="longgun" path="D:\police\Security\res\drawable-hdpi\longgun.png" qualifiers="hdpi-v4" type="drawable"/><file name="shortgun" path="D:\police\Security\res\drawable-hdpi\shortgun.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_focus" path="D:\police\Security\res\drawable-hdpi\spinner_focus.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spinner_normal" path="D:\police\Security\res\drawable-hdpi\spinner_normal.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_all_btn_bg" path="D:\police\Security\res\drawable-hdpi\spline_all_btn_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_all_btn_bg_press" path="D:\police\Security\res\drawable-hdpi\spline_all_btn_bg_press.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_checkbox_bg" path="D:\police\Security\res\drawable-hdpi\spline_checkbox_bg.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_checkbox_bg_press" path="D:\police\Security\res\drawable-hdpi\spline_checkbox_bg_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_edittext_bg" path="D:\police\Security\res\drawable-hdpi\spline_edittext_bg.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_edittext_bg_press" path="D:\police\Security\res\drawable-hdpi\spline_edittext_bg_press.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="subcab" path="D:\police\Security\res\drawable-hdpi\subcab.png" qualifiers="hdpi-v4" type="drawable"/><file name="subcab_press" path="D:\police\Security\res\drawable-hdpi\subcab_press.png" qualifiers="hdpi-v4" type="drawable"/><file name="textbox_spinner_normal" path="D:\police\Security\res\drawable-hdpi\textbox_spinner_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="textbox_spinner_prss" path="D:\police\Security\res\drawable-hdpi\textbox_spinner_prss.png" qualifiers="hdpi-v4" type="drawable"/><file name="spline_blue_content_bg" path="D:\police\Security\res\drawable-ldpi\spline_blue_content_bg.jpg" qualifiers="ldpi-v4" type="drawable"/><file name="ac_go_edit" path="D:\police\Security\res\drawable-mdpi\ac_go_edit.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_bg_line" path="D:\police\Security\res\drawable-mdpi\ac_main_bg_line.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_emergency_go_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_emergency_go_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_emergency_go_press" path="D:\police\Security\res\drawable-mdpi\ac_main_emergency_go_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_go_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_go_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_go_press" path="D:\police\Security\res\drawable-mdpi\ac_main_go_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunkeep_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_gunkeep_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunkeep_press" path="D:\police\Security\res\drawable-mdpi\ac_main_gunkeep_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunshot_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_gunshot_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunshot_normal_press" path="D:\police\Security\res\drawable-mdpi\ac_main_gunshot_normal_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunstatus_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_gunstatus_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_gunstatus_press" path="D:\police\Security\res\drawable-mdpi\ac_main_gunstatus_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_query_normal" path="D:\police\Security\res\drawable-mdpi\ac_main_query_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_main_query_press" path="D:\police\Security\res\drawable-mdpi\ac_main_query_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_back_normal" path="D:\police\Security\res\drawable-mdpi\ac_top_back_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_back_press" path="D:\police\Security\res\drawable-mdpi\ac_top_back_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_date" path="D:\police\Security\res\drawable-mdpi\ac_top_date.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_chang_normal" path="D:\police\Security\res\drawable-mdpi\ac_top_func_chang_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_chang_press" path="D:\police\Security\res\drawable-mdpi\ac_top_func_chang_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_help_normal" path="D:\police\Security\res\drawable-mdpi\ac_top_func_help_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_help_press" path="D:\police\Security\res\drawable-mdpi\ac_top_func_help_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_lock_normal" path="D:\police\Security\res\drawable-mdpi\ac_top_func_lock_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_lock_press" path="D:\police\Security\res\drawable-mdpi\ac_top_func_lock_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_setting_normal" path="D:\police\Security\res\drawable-mdpi\ac_top_func_setting_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_setting_press" path="D:\police\Security\res\drawable-mdpi\ac_top_func_setting_press.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_func_user_icon" path="D:\police\Security\res\drawable-mdpi\ac_top_func_user_icon.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_net" path="D:\police\Security\res\drawable-mdpi\ac_top_net.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_power" path="D:\police\Security\res\drawable-mdpi\ac_top_power.png" qualifiers="mdpi-v4" type="drawable"/><file name="ac_top_temper" path="D:\police\Security\res\drawable-mdpi\ac_top_temper.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\police\Security\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="logo" path="D:\police\Security\res\drawable-mdpi\logo.png" qualifiers="mdpi-v4" type="drawable"/><file name="spline_blue_content_bg" path="D:\police\Security\res\drawable-mdpi\spline_blue_content_bg.jpg" qualifiers="mdpi-v4" type="drawable"/><file name="ac_change_dlg_back_normal" path="D:\police\Security\res\drawable-xhdpi\ac_change_dlg_back_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_change_dlg_back_press" path="D:\police\Security\res\drawable-xhdpi\ac_change_dlg_back_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_change_dlg_finger" path="D:\police\Security\res\drawable-xhdpi\ac_change_dlg_finger.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_go_edit" path="D:\police\Security\res\drawable-xhdpi\ac_go_edit.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_bg_line" path="D:\police\Security\res\drawable-xhdpi\ac_main_bg_line.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_emergency_go_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_emergency_go_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_emergency_go_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_emergency_go_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_go_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_go_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_go_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_go_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunkeep_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunkeep_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunkeep_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunkeep_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunshot_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunshot_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunshot_normal_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunshot_normal_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunstatus_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunstatus_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_gunstatus_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_gunstatus_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_query_normal" path="D:\police\Security\res\drawable-xhdpi\ac_main_query_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_main_query_press" path="D:\police\Security\res\drawable-xhdpi\ac_main_query_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_back_normal" path="D:\police\Security\res\drawable-xhdpi\ac_top_back_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_back_press" path="D:\police\Security\res\drawable-xhdpi\ac_top_back_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_date" path="D:\police\Security\res\drawable-xhdpi\ac_top_date.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_chang_normal" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_chang_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_chang_press" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_chang_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_help_normal" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_help_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_help_press" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_help_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_lock_normal" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_lock_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_lock_press" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_lock_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_setting_normal" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_setting_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_setting_press" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_setting_press.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_func_user_icon" path="D:\police\Security\res\drawable-xhdpi\ac_top_func_user_icon.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_net" path="D:\police\Security\res\drawable-xhdpi\ac_top_net.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_power" path="D:\police\Security\res\drawable-xhdpi\ac_top_power.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ac_top_temper" path="D:\police\Security\res\drawable-xhdpi\ac_top_temper.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_icons" path="D:\police\Security\res\drawable-xhdpi\ic_icons.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\police\Security\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="loading" path="D:\police\Security\res\drawable-xhdpi\loading.png" qualifiers="xhdpi-v4" type="drawable"/><file name="logo" path="D:\police\Security\res\drawable-xhdpi\logo.png" qualifiers="xhdpi-v4" type="drawable"/><file name="spline_blue_content_bg" path="D:\police\Security\res\drawable-xhdpi\spline_blue_content_bg.jpg" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="D:\police\Security\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ac_activity_go" path="D:\police\Security\res\layout\ac_activity_go.xml" qualifiers="" type="layout"/><file name="ac_activity_keep" path="D:\police\Security\res\layout\ac_activity_keep.xml" qualifiers="" type="layout"/><file name="ac_activity_main" path="D:\police\Security\res\layout\ac_activity_main.xml" qualifiers="" type="layout"/><file name="ac_activity_query" path="D:\police\Security\res\layout\ac_activity_query.xml" qualifiers="" type="layout"/><file name="ac_activity_status" path="D:\police\Security\res\layout\ac_activity_status.xml" qualifiers="" type="layout"/><file name="ac_as_cab_item" path="D:\police\Security\res\layout\ac_as_cab_item.xml" qualifiers="" type="layout"/><file name="ac_change_dlg" path="D:\police\Security\res\layout\ac_change_dlg.xml" qualifiers="" type="layout"/><file name="ac_go_gun_item" path="D:\police\Security\res\layout\ac_go_gun_item.xml" qualifiers="" type="layout"/><file name="ac_keep_gun_item" path="D:\police\Security\res\layout\ac_keep_gun_item.xml" qualifiers="" type="layout"/><file name="ac_load_dlg" path="D:\police\Security\res\layout\ac_load_dlg.xml" qualifiers="" type="layout"/><file name="ac_main_sysinfo_item" path="D:\police\Security\res\layout\ac_main_sysinfo_item.xml" qualifiers="" type="layout"/><file name="ac_query_alarm" path="D:\police\Security\res\layout\ac_query_alarm.xml" qualifiers="" type="layout"/><file name="ac_query_oper" path="D:\police\Security\res\layout\ac_query_oper.xml" qualifiers="" type="layout"/><file name="ac_settings" path="D:\police\Security\res\layout\ac_settings.xml" qualifiers="" type="layout"/><file name="ac_tip_dlg" path="D:\police\Security\res\layout\ac_tip_dlg.xml" qualifiers="" type="layout"/><file name="ac_top_layout_func" path="D:\police\Security\res\layout\ac_top_layout_func.xml" qualifiers="" type="layout"/><file name="ac_top_layout_status" path="D:\police\Security\res\layout\ac_top_layout_status.xml" qualifiers="" type="layout"/><file name="timepicker" path="D:\police\Security\res\layout\timepicker.xml" qualifiers="" type="layout"/><file name="ac_top_layout_func" path="D:\police\Security\res\layout-land-800x600\ac_top_layout_func.xml" qualifiers="land-800x600" type="layout"/><file name="ac_top_layout_status" path="D:\police\Security\res\layout-land-800x600\ac_top_layout_status.xml" qualifiers="land-800x600" type="layout"/><file name="main" path="D:\police\Security\res\menu\main.xml" qualifiers="" type="menu"/><file name="localtiondb" path="D:\police\Security\res\raw\localtiondb" qualifiers="" type="raw"/><file path="D:\police\Security\res\values\arrays.xml" qualifiers=""><string-array name="BehaviorType">
+        <item>发布</item>
+        <item>获取</item>
+    </string-array><string-array name="members_level">
+        <item>不限</item>
+        <item>浏览用户</item>
+        <item>体验用户</item>
+        <item>认证会员</item>
+        <item>vip年费会员</item>
+        <item>公共会员</item>
+    </string-array><string-array name="search_type">
+        <item>全部</item>
+        <item>好评</item>
+        <item>差评</item>
+        <item>差评</item>
+    </string-array><string-array name="selectunit">
+        <item>吨</item>
+        <item>立方</item>
+    </string-array><string-array name="time_sort">
+        <item>按发布时间由晚到早</item>
+        <item>按发布时间由早到晚</item>
+        <item>按货物数量由多到少</item>
+        <item>按货物数量由少到多</item>
+        <item>按运费单价由高到低</item>
+        <item>按运费单价由低到高</item>
+    </string-array><string-array name="truckTypeTwo">
+        <item>2轴</item>
+        <item>3轴</item>
+		<item>4轴</item>
+        <item>5轴</item>
+        <item>6轴</item>
+    </string-array><string-array name="carnolist">
+        <item>京</item>
+        <item>津</item>
+        <item>沪</item>
+        <item>渝</item>
+        <item>冀</item>
+        <item>晋</item>
+        <item>蒙</item>
+        <item>辽</item>
+        <item>吉</item>
+        <item>黑</item>
+        <item>苏</item>
+        <item>浙</item>
+        <item>皖</item>
+        <item>闽</item>
+        <item>赣</item>
+        <item>鲁</item>
+        <item>豫</item>
+        <item>鄂</item>
+        <item>湘</item>
+        <item>粤</item>
+        <item>桂</item>
+        <item>琼</item>
+        <item>川</item>
+        <item>贵</item>
+        <item>云</item>
+        <item>藏</item>
+        <item>陕</item>
+        <item>甘</item>
+        <item>青</item>
+        <item>宁</item>
+        <item>新</item>
+    </string-array><string-array name="sp_translation_types">
+        <item>不限</item>
+        <item>整车</item>
+        <item>零担</item>
+    </string-array><string-array name="tradeType">
+        <item>未分配</item>
+        <item>食品饮料</item>
+        <item>农牧业</item>
+        <item>建筑建材</item>
+        <item>服装</item>
+        <item>家居用品</item>
+        <item>纸业类</item>
+        <item>运动休闲(体育用品)</item>
+        <item>汽摩及配件</item>
+         <item>玩具</item>
+        <item>纺织皮革</item>
+        <item>医药保养</item>
+        <item>橡胶</item>
+        <item>五金工具</item>
+        <item>家用电器</item>
+        <item>电工电气</item>
+        <item>化工</item>
+        <item>机械及行业设备</item>
+        <item>礼品工艺品饰品</item>
+    </string-array><string-array name="image_type">
+        <item>请选择 </item>
+        <item>身份证 </item>
+        <item>营业执照 </item>
+        <item>组织机构代码证 </item>
+                <item>营运许可</item>
+        <item>业务照片</item>
+    </string-array><string-array name="made_of_payment">
+        <item>请选择</item>
+        <item>现付</item>
+        <item>到付</item>
+        <item>回单</item>
+        <item>预付</item>
+    </string-array><string-array name="ConsumeType">
+        <item>货物信息</item>
+        <item>车辆信息</item>
+        <item>司机信息</item>
+        <item>车队信息</item>
+        <item>身份信息</item>
+        <item>手机短信</item>
+    </string-array><string-array name="cargo_price_unit">
+        <item>吨</item>
+        <item>立方</item>
+        <item>车</item>
+    </string-array><string-array name="goods_list">
+        <item>建材</item>
+        <item>药品</item>
+        <item>矿产</item>
+        <item>饮料</item>
+        <item>食品</item>
+        <item>百货</item>
+        <item>化工</item>
+        <item>农副产品</item>
+        <item>蔬果</item>
+        <item>水产</item>
+        <item>易碎品</item>
+        <item>纺织品</item>
+        <item>冷藏</item>
+        <item>设备仪器</item>
+        <item>畜产品</item>
+        <item>普货</item>
+        <item>抛货</item>
+        <item>重货</item>
+    </string-array><string-array name="members_type">
+        <item>不限</item>
+         <item>货主会员</item>
+    	<item>司机会员</item>
+    	<item>运输公司</item>
+    	<item>物流信息部</item>
+    	<item>零担专线</item>  
+    </string-array><string-array name="findCarType">
+        <item>信息部</item>
+        <item>直接货主</item>
+        <item>其他朋友</item>
+		<item>信息平台</item>
+		<item>直接司机</item>
+		<item>其他</item>
+    </string-array><string-array name="time_list">
+        <item>半小时内</item>
+        <item>1小时内</item>
+        <item>2小时内</item>
+        <item>3小时内</item>
+        <item>4小时内</item>
+        <item>5小时内</item>
+        <item>6小时内</item>
+        <item>7小时内</item>
+        <item>8小时内</item>
+        <item>9小时内</item>
+        <item>10小时内</item>
+        <item>11小时内</item>
+        <item>12小时内</item>
+        <item>13小时内</item>
+        <item>14小时内</item>
+        <item>15小时内</item>
+        <item>16小时内</item>
+        <item>17小时内</item>
+        <item>18小时内</item>
+        <item>19小时内</item>
+        <item>20小时内</item>
+        <item>21小时内</item>
+        <item>22小时内</item>
+        <item>23小时内</item>
+        <item>24小时内</item>
+    </string-array><string-array name="FriendStatus">
+        <item>未注册</item>
+        <item>已注册</item>
+        <item>已奖励</item>
+    </string-array><string-array name="commodityType">
+        <item>未选择</item>
+        <item>百货</item>
+        <item>钢材</item>
+        <item>建材</item>
+        <item>矿产</item>
+        <item>煤炭</item>
+        <item>食品</item>
+        <item>饮料</item>
+        <item>设备仪器</item>
+        <item>树苗</item>
+        <item>木材</item>
+        <item>果蔬</item>
+        <item>轿车</item>
+        <item>纺织品</item>
+        <item>纸制品</item>
+        <item>配件</item>
+        <item>水产品</item>
+        <item>农产品</item>
+        <item>牲产品</item>
+    </string-array><string-array name="provincelist">
+        <item>北京市</item>
+        <item>天津市</item>
+        <item>河北省</item>
+        <item>山西省</item>
+        <item>内蒙古</item>
+        <item>辽宁省</item>
+        <item>吉林省</item>
+        <item>黑龙江省</item>
+        <item>上海市</item>
+        <item>江苏省</item>
+        <item>浙江省</item>
+        <item>安徽省</item>
+        <item>福建省</item>
+        <item>江西省</item>
+        <item>山东省</item>
+        <item>河南省</item>
+        <item>湖北省</item>
+        <item>湖南省</item>
+        <item>广东省</item>
+        <item>广西省</item>
+        <item>海南省</item>
+        <item>重庆市</item>
+        <item>四川省</item>
+        <item>贵州省</item>
+        <item>云南省</item>
+        <item>西藏省</item>
+        <item>陕西省</item>
+        <item>甘肃省</item>
+        <item>青海省</item>
+        <item>宁夏省</item>
+        <item>新疆省</item>
+        <item>台湾省</item>
+        <item>香港</item>
+        <item>澳门</item>
+        <item>海外</item>
+        <item>其他</item>
+    </string-array><string-array name="cargoType">
+        <item>未选择</item>
+        <item>普货</item>
+        <item>重货</item>
+        <item>抛货</item>
+        <item>易碎品</item>
+        <item>化工品</item>
+        <item>危险品</item>
+        <item>冷藏</item>
+        <item>特种货物</item>
+    </string-array><string-array name="termination_type">
+        <item>全部</item>
+        <item>我方解约</item>
+        <item>对方解约</item>
+        <item>双方协议解约</item>
+    </string-array><string-array name="contracttype">
+        <item>""</item>
+        <item>待签约</item>
+        <item>待撤消</item>
+        <item>已撤消</item>
+        <item>已签约 </item>
+        <item>已作废</item>
+        <item>已完结</item>
+    </string-array><string-array name="pktype">
+        <item>不限</item>
+        <item>整车</item>
+        <item>零担</item>
+        <item>配货</item>
+        <item>零担转整车</item>
+        <item>配货转整车</item>
+    </string-array><string-array name="truckTypeSix">
+        <item>危险车</item>
+        <item>冷藏车</item>
+        <item>笼子车</item>
+        <item>特种车</item>
+        <item>工程车</item>
+        <item>油罐车</item>
+        <item>厢式车</item>
+        <item>保温车</item>
+        <item>集装箱</item>
+    </string-array><string-array name="numberlist">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array><string-array name="truckTypeOne">
+        <item>前二后四</item>
+        <item>前二后八</item>
+        <item>前四后四</item>
+        <item>前四后六</item>
+        <item>前四后八</item>
+        <item>前四后十</item>
+    </string-array><string-array name="cartypelist">
+        <item>平板</item>
+        <item>拖车</item>
+        <item>前四后八</item>
+        <item>长车</item>
+        <item>半挂</item>
+        <item>高栏</item>
+        <item>二拖三</item>
+        <item>二拖四</item>
+        <item>前四后四</item>
+        <item>前四后六</item>
+        <item>集装箱</item>
+        <item>冷藏</item>
+        <item>全挂</item>
+        <item>双桥</item>
+        <item>厢式</item>
+        <item>保温车</item>
+        <item>罐车</item>
+        <item>自卸车</item>
+        <item>底盘车</item>
+        <item>前四后十</item>
+    </string-array><string-array name="truckTypeThree">
+        <item>半挂</item>
+        <item>非半挂</item>
+    </string-array><string-array name="enlist">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array><string-array name="truckTypeFour">
+        <item>平板</item>
+        <item>高低板</item>
+    </string-array><string-array name="newCargoType">
+        <item>未选择</item>
+        <item>普货</item>
+        <item>重货</item>
+        <item>泡货</item>
+        <item>重泡货</item>
+      
+        <item>摩托车</item>
+        <item>玻璃</item>
+        <item>设备</item>
+        <item>配件</item>
+        <item>电瓷</item>
+        <item>显像管</item>
+        <item>电器</item>
+        <item>烟叶</item>
+        <item>煤炭</item>
+        <item>矿产</item>
+        <item>钢铁</item>
+        <item>铁粉</item>
+        <item>建材</item>
+        <item>胶版</item>
+        <item>食品</item>
+        <item>粮食</item>
+        <item>饮料</item>
+        <item>危险品</item>
+        <item>烟花</item>
+        <item>化工</item>
+        <item>化肥农药</item>
+        <item>石油制品</item>
+        <item>轻工产品</item>
+        <item>牧产品</item>
+        <item>牲畜</item>
+        <item>渔产品</item>
+        <item>农产品</item>
+        <item>水果</item>
+        <item>蔬菜</item>
+        <item>木材</item>
+        <item>木方</item>
+        <item>竹片</item>
+        <item>轿车</item>
+        <item>驾驶室</item>
+        <item>特种货物</item>
+        <item>军用品</item>
+
+       
+    </string-array><string-array name="account_source">
+        <item>消费</item>
+        <item>充值</item>
+        <item>赠送</item>
+    </string-array><string-array name="business_description">
+        <item>未选择</item>
+        <item>临时</item>
+        <item>回程车</item>
+        <item>专线</item>
+    </string-array><string-array name="truck_number">
+        <item>天</item>
+        <item>周</item>
+        <item>月</item>
+    </string-array><string-array name="phoneSysType">
+        <item>安卓</item>
+        <item>ios(苹果)</item>
+        <item>wp8</item>
+        <item>塞班</item>
+        <item>其他</item>
+    </string-array><string-array name="account_type">
+        <item>支付宝</item>
+        <item>银联在线</item>
+        <item>中移手机支付</item>
+        <item>翼支付</item>
+        <item>沃支付</item>
+        <item>年费</item>
+        <item>身份验证</item>
+        <item>短信代扣</item>
+        <item>赠送</item>
+    </string-array><string-array name="truckTypeFive">
+        <item>高栏</item>
+        <item>低栏</item>
+        <item>无栏</item>
+    </string-array><string-array name="truck_platform_source">
+        <item>平台车库</item>
+        <item>个人车库 </item>        
+        <item>实时车库</item>
+    </string-array><string-array name="capCostType">
+        <item>吨</item>
+        <item>立方</item>
+        <item>车</item>
+    </string-array></file><file path="D:\police\Security\res\values\colors.xml" qualifiers=""><color name="tab_bar_btn_text_focus">#FF000000</color><color name="pale_gray_color">#FF454545</color><color name="deep_green_imgbtn">#168375</color><color name="text_normal">#FFFFFFFF</color><color name="deep_blue_imgbtn">#0079a8</color><color name="car_no_bule">#82b4e9</color><color name="receive_hint_color">#FF227eec</color><color name="text_yellow_color">#fff100</color><color name="title_bg_color">#ea5504</color><color name="title_back_text_focus">#FFFFFFFF</color><color name="light_blue_imgbtn">#00adef</color><color name="yellow_color">#FFea5504</color><color name="light_yellow_imgbtn">#f27935</color><color name="text_down">#FF012a86</color><color name="black">#FF000000</color><color name="deep_yellow_imgbtn">#aa5525</color><color name="country_color">#f5a93e</color><color name="cargo_info_bgcolor">#a73e4f</color><color name="text_color">#666666</color><color name="back_color">#FFe9f6fe</color><color name="white_color">#ffFFFFFF</color><color name="county_color">#a0cb48</color><color name="transparent">#88888888</color><color name="deep_brown_imgbtn">#254075</color><color name="light_green_imgbtn">#1fbba6</color><color name="city_color">#5dafaa</color><color name="list_back_color">#00FFFFFF</color><color name="pale_blue_color">#FFE9E9E9</color><color name="light_purple_imgbtn">#984194</color><color name="consumer_color">#ffff8db4</color><color name="grid_back_color">#FFe9e9e9</color><color name="light_red_imgbtn">#ee5871</color><color name="orange">#ec5506</color><color name="deep_red_imgbtn">#a73e4f</color><color name="tab_bar_btn_text_normal">#FF595856</color><color name="title_back_text_normal">#FFFFFFFF</color><color name="light_brown_imgbtn">#345ba6</color><color name="deep_purple_imgbtn">#6b2e68</color><color name="pale_light_color">#FFfdfdfd</color></file><file path="D:\police\Security\res\values\dimens.xml" qualifiers=""><dimen name="edit_box_hight">30dp</dimen><dimen name="list_item_hight">30dp</dimen><dimen name="title_size">90dp</dimen><dimen name="min_horizontal_margin">8dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="title_top_size">58dp</dimen><dimen name="all_button_height">40dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="all_text_size">18sp</dimen><dimen name="title_bottom_size">28dp</dimen><dimen name="text_view_hight">24dp</dimen><dimen name="all_button_width">200dp</dimen></file><file path="D:\police\Security\res\values\strings.xml" qualifiers=""><string name="findcar">找车途径</string><string name="focus_cargo">关注货源</string><string name="soft_update_title">软件更新</string><string name="cargo_search_msg">货源搜索结果</string><string name="sure">确认</string><string name="reg_motorcade">注册运输公司会员</string><string name="platform_garage_msg">平台车库</string><string name="invite_code">邀请码</string><string name="Save_Password_Static">"记住密码"</string><string name="contact_time">通话日期</string><string name="bottom_info_text">"客服电话：0737-3276666"</string><string name="weight_unit">吨</string><string name="Quick_Login_Static">"快速登录"</string><string name="comment_complaint">被评价与投诉</string><string name="edituserinfo">修改用户信息</string><string name="epass_old">原密码</string><string name="order_time">发货时间</string><string name="driverbaseinfo">司机基本信息</string><string name="detail_open_btn">查看更多详情</string><string name="reg_driver">注册司机会员</string><string name="truck_type">车辆类型</string><string name="car_info_publish_title">车辆信息发布</string><string name="cargo_publish_list_msg">货源发布记录</string><string name="microaccount">微信帐号</string><string name="wheel">轮</string><string name="step_one_text">司机会员或货主会员通过本网查找到对方，进行电话联系达成一致后进行本网网上签约。</string><string name="reg_shipper">注册货主会员</string><string name="usecost">消耗路币</string><string name="certify_submit_msg">证件提交</string><string name="contracting_id">签约编号：</string><string name="hello_world">欢迎使用路线图信息网</string><string name="details_info">详细信息</string><string name="line">专线</string><string name="thjl_record">通话记录</string><string name="app_name">Security</string><string name="detail_close_btn">关闭更多详情</string><string name="qq">联系QQ</string><string name="Text_login_user_name">"用户名"</string><string name="personal_garage_search_msg">个人车库搜索</string><string name="err_car_number_format">"请填写正确的车牌号码"</string><string name="car_len">车长</string><string name="input_choice">选填</string><string name="cargo_list_info_title">货源信息搜索结果</string><string name="btn_cancelled">已撤销</string><string name="truck_len">车辆长度</string><string name="search_number">次 /</string><string name="senduser">发布会员</string><string name="member_name">会员名称</string><string name="dlg_phone_choice_title">只能选择手机号码</string><string name="truck_len_tips">米(必填)</string><string name="alert_msg">系统正在处理数据,请稍后再进行操作</string><string name="s_address">发货地址</string><string name="cargo_search_title">货源信息搜索</string><string name="group_manage_msg">分组管理</string><string name="verification_code">验证码</string><string name="waiting_sign_protocol">待我签约协议</string><string name="spline_yes">是</string><string name="prompt_phone">请填写手机号码！</string><string name="car_manage_imgbtn_text">车辆管理</string><string name="modify">修改</string><string name="soft_update_info">检测到新版本，立即更新吗</string><string name="comment">评价</string><string name="epass_new">新密码</string><string name="routine_line_five">常路线路五</string><string name="qy_send">发起邀请</string><string name="xinjiang">新疆省</string><string name="cargo_info_imgbtn_text">货源信息</string><string name="err_mobile_number_format">"请填写正确的电话号码"</string><string name="customname">会员名称</string><string name="qy_gocargo">返回货物信息</string><string name="member_detail">会员详情</string><string name="toast_exit_message">"再次按返回键将退出应用"</string><string name="match_message">匹配信息</string><string name="bankaccount">银行帐号</string><string name="clear">清空</string><string name="truckinfo">车辆信息</string><string name="column">栏</string><string name="find_car_len">求车长</string><string name="give_up_msg">放弃此次编辑？</string><string name="modifypwd">修改密码</string><string name="post_cargo">发布货物信息</string><string name="renewcontract">网上签约</string><string name="bankinfo">银行信息</string><string name="focus_no_car_msg">关注会员-车源</string><string name="out_in_account_message">进/出账：</string><string name="search_light_price">轻货价</string><string name="New_User_Register">"用户注册"</string><string name="identify_number">证件号码：</string><string name="money_unit_message">元</string><string name="account_type_message">账户类型：</string><string name="adinfo">公司信息</string><string name="contract_info_title">协议详情</string><string name="yuan">元/</string><string name="hang">挂</string><string name="menu_help">帮助</string><string name="member_name_message">会员名称：</string><string name="friend_call_phone">好友手机</string><string name="d_address_tips">请输入详细提货地址</string><string name="action_settings">Settings</string><string name="new_match_info">最新匹配信息</string><string name="ningxia">宁夏省</string><string name="msg_id_card">http://idcard.911cha.com/</string><string name="prompt_message">（至少填一个）</string><string name="need_truck_type">需求车辆</string><string name="null_txt"> </string><string name="recuser_btn">邀请</string><string name="driver_search_title">司机信息搜索</string><string name="match_info_msg">匹配信息</string><string name="friend_list_btn">查看好友推荐记录</string><string name="msg_tranfic_violation">http://search.pazx888.com/</string><string name="transportation_time">运输时长</string><string name="searchtxt">所有搜索条件可任意选择与搭配，也可对单一条件进行搜索。</string><string name="board">板</string><string name="viewcargo">货物信息</string><string name="pro_msg">请输入分组名</string><string name="freight">运费：</string><string name="soft_update_cancel">取消</string><string name="routine_line_four">常路线路四</string><string name="post_time">发布时间</string><string name="baseinfo">基本信息</string><string name="cancel">取消</string><string name="locspark">所在园区</string><string name="delete_prompt_msg">删除提示</string><string name="request">请求撤消</string><string name="srh_btn">搜索</string><string name="choose_route">选择常跑线路</string><string name="msg_weather">http://www.weather.com.cn/weather/101250102.shtml</string><string name="msg_driving_license">http://www.hljjj.gov.cn:8081/Home/Jfcx</string><string name="truck_manage_titme">车辆管理</string><string name="car_match_info_msg">车源匹配信息</string><string name="reg_info_member">注册信息部会员</string><string name="end_address">目的地</string><string name="btn_entire">全部</string><string name="type_for_load_to_car_part">零担</string><string name="is_return">是否往返</string><string name="contact_number">联系号码:</string><string name="menu_reg">注册</string><string name="car_search_result_msg">车源搜索结果</string><string name="friend_post_btn">发送请求</string><string name="input_must">必填</string><string name="load_type">装车类型</string><string name="soft_update_later">稍后更新</string><string name="post_truck">发布车辆信息</string><string name="soft_update_ex">检测到您的手机没有可用的wifi或移动网络，请打开网络后重试</string><string name="total_money_message">总金额：</string><string name="serach">搜索</string><string name="focus_route_msg">关注线路</string><string name="send_verification_code">发送验证码</string><string name="user_email">EMail</string><string name="car_info_search">车源搜索</string><string name="done">已成交</string><string name="loadcapacity">可载容量</string><string name="btn_expired">已过期</string><string name="btn_notes_running">发布中</string><string name="not_mobile">不是手机号码，请选择正确的手机号</string><string name="user_confirmpwd">确认密码</string><string name="ordinary_sort">发布时间由晚到早</string><string name="versionName">版本 1.0.13</string><string name="sms_schedular_imgbtn_text">短信调度</string><string name="prompt_text">请填写验证码或者邀请码！</string><string name="uploadphoto">上传照片</string><string name="search_heavy_price">重货价</string><string name="clear_content">清空</string><string name="addressinfo">地址信息</string><string name="shaft">轴</string><string name="pic_upload_error">照片类别错误</string><string name="d_address">提货地址</string><string name="type_of_payment">付款方式</string><string name="addrmaketext"/><string name="username">客户姓名</string><string name="concerned">已关注</string><string name="msg_freeway">http://www.zou114.com/gsgl/</string><string name="online_contracting_cargo_info">货源方信息</string><string name="confirm">同意撤消</string><string name="complain">投诉</string><string name="user_pwd">用户密码</string><string name="way_for_no_match">会员中心中可修改信息</string><string name="isbackinfo">是否回程</string><string name="creditpoint">信誉分</string><string name="editinfo">编辑信息</string><string name="carinfo">车辆匹配信息</string><string name="null_err">该项为必填项</string><string name="phone_format_hint">"区号与号码以‘-’分隔"</string><string name="releasedate">发布日期</string><string name="renew_publish">重新发布</string><string name="contract_info_edit_title">协议编辑</string><string name="distance">里程</string><string name="info_depart_text">信息部</string><string name="car_info_imgbtn_text">车源信息</string><string name="soft_update_updatebtn">更新</string><string name="account_detail_query_btn">账户明细查询</string><string name="detail_addr">详细地址</string><string name="wait_message">正在处理中,请稍后</string><string name="cargo_info_publish_title">货物信息发布</string><string name="input_one">选填其中一项</string><string name="user_info_title">用户信息</string><string name="location">所在地</string><string name="edit">修改协议</string><string name="open_membership_btn">开通会员</string><string name="focus_no_group_msg">关注会员-分组管理</string><string name="prompt_effective_phone">请填写有效的手机号码！</string><string name="common_tools_msg">常用工具</string><string name="len_unit">米</string><string name="focus_car">关注车源</string><string name="recall">撤回邀请</string><string name="xizang">西藏省</string><string name="publish_record">发布记录</string><string name="post_info_btn">提交修改信息</string><string name="splineinfo">专线匹配信息</string><string name="address">地址</string><string name="title_activity_app_main">AppMainActivity</string><string name="routine_line_three">常路线路三</string><string name="title_activity_spline_main">SplineMainActivity</string><string name="retrieve_password">http://platform.t68888.com/Home/ResetPwd</string><string name="driver_list_info_title">司机信息</string><string name="credit_point">会员信誉</string><string name="personal_garage_msg">个人车库</string><string name="pinan">平安保险</string><string name="return_journey">回程车</string><string name="inviter_name">您的姓名</string><string name="matching_information">匹配信息</string><string name="guangxi">广西省</string><string name="reg_phone">注册手机号</string><string name="modif_user_info_btn">修改用户信息</string><string name="soft_update_no">已经是最新版本</string><string name="invite_friends_imgbtn_text">好友邀请</string><string name="cargoinfo">货物匹配信息</string><string name="way_for_matched">查看签约货源</string><string name="nation_wide_msg">全国</string><string name="open_phone_book">打开通讯录</string><string name="type_for_load_to_car_all">整车</string><string name="menu_findpass">找回密码</string><string name="banktype">开户银行</string><string name="platform_garage_search_msg">平台车库搜索</string><string name="err_phone_number_format">"请填写正确的手机号码"</string><string name="cargo_details_info_title">货物详细信息</string><string name="recharge_now_btn">立即充值</string><string name="routine_line">常跑线路</string><string name="telphone">联系手机</string><string name="friend_name">好友姓名</string><string name="contract_info_list_title">协议列表</string><string name="friend_recommend_title">好友邀请</string><string name="reg_spline_member">注册零担专线会员</string><string name="search_transportation_method">运输方式</string><string name="cargo_history_title">历史货物发布信息</string><string name="distingu">特</string><string name="search_light_price_tips">"元/立方 "</string><string name="account_info_msg">账户信息</string><string name="app_test">Security</string><string name="message_prompt_text">        	好友推荐规则描述
+        	\n1.当您邀请的好友成为路线图物流之家的会员且充值后，您即可获得一定额度的赠送路币来作为邀请奖励；
+			\n2.您邀请的好友需是真实的货车司机/货主/物流公司/物流信息部；
+			\n3.您邀请的好友在注册时需在邀请人一栏中填写您的用户名（注册手机号）；
+			\n4.已注册的会员不能被邀请，会员不能自己邀请自己；
+			\n5.邀请无限制，邀请越多奖励越多；
+			\n6.本网禁止通过作弊手段进行虚假邀请注册骗取奖励，如被发现将取消奖励并酌情处罚。
+			\n7.赠送路币额度规则： 会员成功推荐三个，则直接赠送20次（即300赠送路币）发布、查看信息的机会</string><string name="release_notes">发布记录</string><string name="car_publish_list_msg">车源发布列表</string><string name="managephone">负责人电话</string><string name="friend_recommend_list_title">好友邀请记录</string><string name="hour">小时</string><string name="cargo_type">货物类型</string><string name="cartype">车辆类型</string><string name="rmdcode">推荐ID</string><string name="_truck_frequency">发车频率</string><string name="cargo_info_search">货源搜索</string><string name="trade">所属行业</string><string name="soft_updating">正在更新</string><string name="contractstate">协议状态</string><string name="cap_unit">立方</string><string name="publish_info">发布信息</string><string name="start_address">出发地</string><string name="cellphone">注册手机</string><string name="title_activity_test_main">TestMainActivity</string><string name="email">联系邮箱</string><string name="car_details_info_title">车辆详细信息</string><string name="credit_title">信誉记录</string><string name="type_for_load_to_car">装车类型：</string><string name="qqnumber">QQ号码</string><string name="num">数量</string><string name="viewcontract">查看协议</string><string name="btn_login_in">登录</string><string name="credentials">司机证件号</string><string name="cargopin_type">货品类型</string><string name="car_info_publish">车源发布</string><string name="search_truck_load">车辆可载</string><string name="recuser">被邀请会员</string><string name="truck_cap">可载容量</string><string name="guest_user">浏览用户</string><string name="error_prompt_msg">分组名称由汉字、字母、数字或“-”组成</string><string name="call_phone">拨打联系电话</string><string name="saveinfo">保存</string><string name="err_address_no_level_format">"请选择地址到区县级"</string><string name="epass_new2">确认密码</string><string name="title_activity_spline_list_detail">SplineListDetail</string><string name="modif_password_text">修改用户密码</string><string name="car_no">车牌号：</string><string name="message_content_text">        	邀请您使用路线图物流之家，可快速发车和找货！详见http://download.t68888.com/,电询：0737-3276666</string><string name="price">价格</string><string name="confirm_pwd">确认密码</string><string name="account_detail_msg">账户明细</string><string name="bankname">户名</string><string name="car_list_info_title">车辆信息</string><string name="comment_edit_notice_text">请客观的为对方会员的协议履行情况做出评价,评价提交后不能更改。</string><string name="id_check_title">身份证验证</string><string name="car_list_msg">车源浏览</string><string name="contact_tel">联系电话</string><string name="err_msg_no_back">等待服务器回复中</string><string name="focus_no_search_msg">关注会员-搜索</string><string name="title_activity_start_login">StartLoginActivity</string><string name="cargo_info_publish">货源发布</string><string name="focus_no_cargo_msg">关注会员-货源</string><string name="loadweight">可载吨位</string><string name="refuse">拒绝签约</string><string name="prompt">提示</string><string name="result_ok">请求成功</string><string name="address_message">地址：</string><string name="set_routine">设置常跑路线</string><string name="add_value_service_btn">增值服务功能</string><string name="err_id_check_repeat">注册ID不可用,已有用户注册</string><string name="consume_history_info_title">消费历史记录</string><string name="userid">会员编号</string><string name="submit_app">提交申请</string><string name="routes_set_title">常跑路线设置</string><string name="tel">联系电话：</string><string name="detail_type_message">类型：</string><string name="moreaddress">详细地址</string><string name="msg_tranfic_imformation">http://www.chinahighway.gov.cn/chinahighway/index.do;jsessionid=5131B0E1212E0E4F574937D563E720EC</string><string name="address_info">地址信息</string><string name="string_format">分组名称由汉字、字母、数字或“-”组成</string><string name="adname">公司名</string><string name="cancel_publish">撤消发布</string><string name="temporary">临时</string><string name="welcome_text">欢迎您：</string><string name="home">回首页</string><string name="commphonesys">常用手机系统</string><string name="no_repeat">不能重复添加</string><string name="spline_search">专线搜索</string><item name="tag_first" type="id">first</item><string name="phone_error_hint">座机区号或者号码不正确</string><string name="routine_line_one">常路线路一</string><string name="waiting_cancel_protocol">待我撤销协议</string><string name="contactinfo">联系信息</string><string name="lasted_sys_news">系统最新公告</string><string name="detail_source_message">来源：</string><string name="welcome_enter">"欢迎使用路线图平台"</string><string name="regname_input_hint">企业或个人名称</string><string name="reg_logistics">注册物流信息部</string><string name="id">编号</string><string name="regid_input_hint">为登陆账号必须为真实手机号</string><string name="other_price">其他计价方式</string><string name="cargo_detail_info_msg">货源详细信息</string><string name="routine_line_two">常路线路二</string><item name="tag_second" type="id">second</item><string name="info_name_text">xxx</string><string name="detail_info_msg">详情</string><string name="maketext">备注</string><string name="qy_back">撤回邀请</string><string name="truck_remark">车辆备注</string><string name="carno">车牌号码</string><string name="photo_graph">拍摄照片</string><string name="my_concern_imgbtn_text">我的关注</string><string name="newNotifi">有新的匹配消息</string><string name="simple_prompt_text">        	当您邀请的好友经路线图物流之家验证是目标会员后，且在注册页面推荐会员栏中填写了您的邀请码，您将获得至少50赠送路币/会员的邀请奖励。</string><string name="step_four_text">身份证验证是公安机关为路线图物流之家所有正式会员提供的一项有偿服务，可以帮您验证身份证上信息的准确性以及与跟您联系的人之间是否存在差异，所有平台中的身份验证均是任您选择，50购买路币/次（该费用由公安机关收取，路线图物流之家不进行任何加价行为）。</string><string name="err_weight_or_cap">吨位或立方必填一项</string><string name="complaint_edit_notice_text">投诉说明:提交投诉后，您与对方会员签约的协议将立即撤销,而被投诉会员将扣除信誉分值;同时,为防止恶意投诉的行为,您也将被扣除信誉分值</string><string name="contacter">联系人</string><string name="sort">排序</string><string name="common_tools_imgbtn_text">常用工具</string><string name="member_center_imgbtn_text">会员中心</string><string name="name_err">该项字数不能超过10个字符</string><string name="remarks">备注</string><string name="attention">关注</string><string name="message_view_text">短信预览</string><string name="title_activity_slide_select">SlideSelectActivity</string><string name="car_history_title">历史车辆发布信息</string><string name="contactor_message">联系人：</string><string name="driver_details_info_title">司机详细信息</string><string name="way_for_has_match">选择签约货源</string><string name="company_name">公司名称</string><string name="id_code_check_err">请输入正确的15位或18位身份号</string><string name="sign">同意签约</string><string name="password_modif_title">密码修改</string><string name="lost_password">"忘记密码"</string><string name="register_success">注册成功！您现在完善用户信息吗？</string><string name="reg">注册</string><string name="deliverydate">发货日期</string><string name="online_contracting_car_info">车源方信息</string><string name="startuser">发起会员</string><string name="err_is_chinese">必须输入中文</string><string name="transportation_process_title">运输业务流程</string><string name="search_heavy_price_tips">"元/吨 "</string><string name="phone_call_num">0737-3276666</string><string name="car_search_title">车辆信息搜索</string><string name="text_input_must">(必填)</string><string name="epass_btn">确认修改</string><string name="car_detail_info_msg">车源详细信息</string><string name="menu_about">关于</string><string name="spline_search_address_tips">可添加五个目的地</string><string name="err_address_no_level_cityformat">"请选择地址到市级"</string><string name="spline_publish">专线发布</string><string name="account_balance_message">账户余额：</string><string name="Text_login_user_pass">"密    码"</string><string name="password">密码</string><string name="step_two_text">当司机会员到达货物出发地时，货主会员要求司机会员出示身份证、驾驶证、行驶证原件并复印存档。若无复印条件，可进行手工记录证件号码方式并存档（推荐使用手机或相机拍照存档）。</string><string name="officephone">联系座机</string><string name="spline_browse">专线浏览</string><string name="thjlTitle">通话列表</string><string name="custom_service_imgbtn_text">客服中心</string><string name="step_three_text">签订运输合同（无打印条件的货主会员请手工书写简单运输协议。）。</string><string name="online_contracting">网上签约</string><string name="user_register_msg">用户注册</string><string name="new_user_reg">新用户注册</string><string name="cargo_match_info_msg">货源匹配信息</string><string name="cargo_list_msg">货源浏览</string><string name="err_id_or_password_repeat">"用户名或密码错误，请重新输入"</string><string name="contact_person">联系人</string><string name="truck_weight">车辆可载</string><string name="special_line_imgbtn_text">专线信息</string></file><file path="D:\police\Security\res\values\styles.xml" qualifiers=""><style name="ThemeOneDialogStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+    </style><style name="ThemeOneButtonStyle" parent="@android:style/Widget.Button">
+        <item name="android:gravity">center_vertical|center_horizontal</item>
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+        
+        <item name="android:background">@drawable/all_button_bg_color</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:height">@dimen/all_button_height</item>
+        <item name="android:width">@dimen/all_button_width</item>
+    </style><style name="dlg_request_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent </item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style><style name="ThemeOneLisetViewStyle">
+        <item name="android:background">@color/list_back_color</item>
+        <item name="android:textColor">@color/white_color</item>
+    </style><style name="main_btn_style">
+        <item name="android:button">@null</item>
+        <item name="android:textSize">10dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:drawablePadding">4dp</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:background">@drawable/button_b</item>
+    </style><style name="ThemeTwoDialogStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+    </style><style name="ac_query_btn_style">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/ac_query_tb</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:layout_width">150dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:padding">10dp</item>
+    </style><style name="ThemeOneEditBoxStyle">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:textColorHint">@color/white_color</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+        
+        <item name="android:editable">true</item>
+        <item name="android:height">@dimen/edit_box_hight</item>
+        <item name="android:background">@drawable/edittext_custom_bg_color</item>
+        
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:focusable">true</item>
+    </style><style name="ThemeOneEditSpinnerImageButtomStyle">
+        <item name="android:background">@drawable/text_input_image_buttom_one</item>
+        <item name="android:clickable">true</item>
+    </style><style name="simple_dialog" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@drawable/all_button_bg_color</item>
+    </style><style name="ThemeOneTextViewStyle">
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:gravity">right</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="ThemeOneMainTitleBackgroundStyle">
+        
+    </style><style name="ThemeOneMainGridViewStyle">
+        <item name="android:background">@color/list_back_color</item>
+        <item name="android:textColor">@color/pale_gray_color</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+        <item name="android:shadowColor">@color/white_color</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">2</item>
+    </style><style name="ThemeOneSpinnerStyle">
+        <item name="android:textColor">@color/pale_gray_color</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+        <item name="android:background">@drawable/spinner_custom_one</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:editable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+    </style><style name="ThemeOneRadioButtomStyle" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:button">@null</item>
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:drawableLeft">@drawable/checkbox_custom_bg_color</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">@dimen/all_text_size</item>
+        <item name="android:clickable">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:drawablePadding">5dp</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowFrame">@null</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:windowBackground">@android:color/transparent </item>
+        
+        <item name="android:backgroundDimEnabled">true</item>
+        
+
+    </style></file><file path="D:\police\Security\res\values\user_theme.xml" qualifiers=""><style name="changeViewTheme" parent="@style/userThemeOne">
+     	<item name="android:windowIsTranslucent">false</item>
+     </style><style name="userThemeOne" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowTitleSize">@dimen/title_size</item>
+        <item name="android:windowTitleBackgroundStyle">@style/ThemeOneMainTitleBackgroundStyle</item>
+        <item name="android:gridViewStyle">@style/ThemeOneMainGridViewStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+        <item name="android:listViewStyle">@style/ThemeOneLisetViewStyle</item>
+         
+        <item name="android:textViewStyle">@style/ThemeOneTextViewStyle</item>
+        <item name="android:spinnerStyle">@style/ThemeOneSpinnerStyle</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        <item name="android:windowBackground">@drawable/spline_blue_content_bg</item>
+        <item name="android:textColorPrimaryInverse">@android:color/black</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style><style name="userThemeTwo" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowTitleSize">@dimen/title_size</item>
+        <item name="android:windowTitleBackgroundStyle">@style/ThemeOneMainTitleBackgroundStyle</item>
+        <item name="android:gridViewStyle">@style/ThemeOneMainGridViewStyle</item>
+        <item name="android:radioButtonStyle">@style/ThemeOneRadioButtomStyle</item>
+        <item name="android:listViewStyle">@style/ThemeOneLisetViewStyle</item>
+         
+        <item name="android:textViewStyle">@style/ThemeOneTextViewStyle</item>
+        <item name="android:spinnerStyle">@style/ThemeOneSpinnerStyle</item>
+        <item name="android:buttonStyle">@style/ThemeOneButtonStyle</item>
+        <item name="android:editTextStyle">@style/ThemeOneEditBoxStyle</item>
+        
+        
+        
+        <item name="android:colorBackgroundCacheHint">@android:color/transparent</item>
+
+        <item name="android:windowBackground">@drawable/spline_blue_content_bg</item>
+        <item name="android:windowIsTranslucent">true</item>
+
+        <item name="android:windowAnimationStyle"> @android:style/Animation</item>
+    </style></file><file path="D:\police\Security\res\values-land-800x480\dimens.xml" qualifiers="land-800x480"><dimen name="all_button_width">100dp</dimen><dimen name="title_bottom_size">14dp</dimen><dimen name="activity_horizontal_margin">8dp</dimen><dimen name="text_view_hight">12dp</dimen><dimen name="edit_box_hight">20dp</dimen><dimen name="all_button_height">15dp</dimen><dimen name="activity_vertical_margin">8dp</dimen><dimen name="all_text_size">9sp</dimen><dimen name="list_item_hight">15dp</dimen><dimen name="min_horizontal_margin">4dp</dimen><dimen name="title_top_size">29dp</dimen><dimen name="title_size">45dp</dimen></file><file path="D:\police\Security\res\values-sw400dp\dimens.xml" qualifiers="sw400dp-v13"><dimen name="title_bottom_size">14dp</dimen><dimen name="activity_horizontal_margin">8dp</dimen><dimen name="title_top_size">29dp</dimen><dimen name="all_button_width">100dp</dimen><dimen name="min_horizontal_margin">4dp</dimen><dimen name="list_item_hight">15dp</dimen><dimen name="activity_vertical_margin">8dp</dimen><dimen name="edit_box_hight">20dp</dimen><dimen name="all_button_height">15dp</dimen><dimen name="text_view_hight">12dp</dimen><dimen name="all_text_size">9sp</dimen><dimen name="title_size">45dp</dimen></file><file path="D:\police\Security\res\values-sw500dp\dimens.xml" qualifiers="sw500dp-v13"><dimen name="all_button_width">200dp</dimen><dimen name="min_horizontal_margin">8dp</dimen><dimen name="title_top_size">58dp</dimen><dimen name="title_bottom_size">28dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="edit_box_hight">30dp</dimen><dimen name="list_item_hight">30dp</dimen><dimen name="text_view_hight">24dp</dimen><dimen name="all_text_size">18sp</dimen><dimen name="title_size">90dp</dimen><dimen name="all_button_height">40dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file></source><source path="D:\police\Security\build\generated\res\rs\debug"/><source path="D:\police\Security\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="D:\police\Security\build-types\debug\res"/></dataSet><mergedItems/></merger>

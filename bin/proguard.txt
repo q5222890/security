@@ -1,0 +1,41 @@
+# view res/layout/ac_activity_query.xml #generated:63
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.wen.security.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.wen.security.SecurityApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.wen.security.ui.ActivityGo { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.wen.security.ui.ActivityGunback { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.wen.security.ui.ActivityImGo { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.wen.security.ui.ActivityKeep { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.wen.security.ui.ActivityQuery { <init>(...); }
+
+# view AndroidManifest.xml #generated:91
+-keep class com.wen.security.ui.ActivityStatus { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.wen.security.ui.MainActivity { <init>(...); }
+
+# view res/layout/ac_activity_status.xml #generated:37
+-keep class com.wen.security.ui.view.AlignLeftGallery { <init>(...); }
+
+# view res/layout/timepicker.xml #generated:13
+# view res/layout/timepicker.xml #generated:19
+# view res/layout/timepicker.xml #generated:7
+-keep class com.wen.security.ui.view.time.WheelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.wen.security.utils.UploadService { <init>(...); }
+

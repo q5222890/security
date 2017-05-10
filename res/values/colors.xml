@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <color name = "pale_blue_color">#FFE9E9E9</color> 
+    <color name = "pale_gray_color">#FF454545</color>
+    <color name = "list_back_color">#00FFFFFF</color>
+    <color name = "back_color">#FFe9f6fe</color>
+    <color name = "white_color">#ffFFFFFF</color> 
+    <color name = "tab_bar_btn_text_focus">#FF000000</color>  
+    <color name = "tab_bar_btn_text_normal">#FF595856</color> 
+    <color name = "title_back_text_focus">#FFFFFFFF</color>  
+    <color name = "title_back_text_normal">#FFFFFFFF</color>
+    <color name="consumer_color">#ffff8db4</color>
+    <color name="receive_hint_color">#FF227eec</color> 
+
+   <color name = "pale_light_color">#FFfdfdfd</color> 
+   <color name="text_yellow_color">#fff100</color>
+    
+    
+     <!-- 主页面点击前颜色 -->
+   <color name="light_red_imgbtn">#ee5871</color>
+   <color name="light_blue_imgbtn">#00adef</color>
+   <color name="light_green_imgbtn">#1fbba6</color>
+   <color name="light_yellow_imgbtn">#f27935</color>
+   <color name="light_brown_imgbtn">#345ba6</color>
+   <color name="light_purple_imgbtn">#984194</color>
+   
+   <!-- 主页面点击后颜色 -->
+   <color name="deep_red_imgbtn">#a73e4f</color>
+   <color name="deep_blue_imgbtn">#0079a8</color>
+   <color name="deep_green_imgbtn">#168375</color>
+   <color name="deep_yellow_imgbtn">#aa5525</color>
+   <color name="deep_brown_imgbtn">#254075</color>
+   <color name="deep_purple_imgbtn">#6b2e68</color>
+   
+   <!-- 注册页面颜色 -->
+   <color name="transparent">#88888888</color>
+
+   
+   
+   <color name="title_bg_color">#ea5504</color>
+   
+
+   
+   
+   <color name = "yellow_color">#FFea5504</color> 
+   <color name = "black">#FF000000</color> 
+   
+    <color name="grid_back_color">#FFe9e9e9</color>
+     <color name = "orange">#ec5506</color>
+     <color name="car_no_bule">#82b4e9</color>
+    <color name="city_color">#5dafaa</color>
+    <color name="country_color">#f5a93e</color>
+    <color name="county_color">#a0cb48</color>
+    <color name="text_down">#FF012a86</color>
+    <color name="text_normal">#FFFFFFFF</color>
+    <color name="text_color">#666666</color>
+    
+    <color name="cargo_info_bgcolor">#a73e4f</color>
+    
+</resources>

@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\police\Security\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from D:\police\Security\AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from D:\police\Security\AndroidManifest.xml:5:5-46
+		INJECTED from D:\police\Security\AndroidManifest.xml
+		INJECTED from D:\police\Security\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\police\Security\AndroidManifest.xml:4:5-30
+		INJECTED from D:\police\Security\AndroidManifest.xml
+		INJECTED from D:\police\Security\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\police\Security\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from D:\police\Security\AndroidManifest.xml:8:5-14:40
+	android:largeScreens
+		ADDED from D:\police\Security\AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from D:\police\Security\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from D:\police\Security\AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from D:\police\Security\AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from D:\police\Security\AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from D:\police\Security\AndroidManifest.xml:9:9-34
+uses-sdk
+ADDED from D:\police\Security\AndroidManifest.xml:16:5-18:41
+	android:targetSdkVersion
+		ADDED from D:\police\Security\AndroidManifest.xml:18:9-38
+	android:minSdkVersion
+		ADDED from D:\police\Security\AndroidManifest.xml:17:9-35
+uses-permission#android.hardware.usb.host
+ADDED from D:\police\Security\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\police\Security\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:20:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\police\Security\AndroidManifest.xml:21:5-84
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:21:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\police\Security\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from D:\police\Security\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\police\Security\AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\police\Security\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from D:\police\Security\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\police\Security\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\police\Security\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\police\Security\AndroidManifest.xml:29:5-75
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:29:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\police\Security\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:30:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\police\Security\AndroidManifest.xml:31:5-69
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:31:22-66
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\police\Security\AndroidManifest.xml:32:5-72
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:32:22-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\police\Security\AndroidManifest.xml:33:5-65
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:33:22-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\police\Security\AndroidManifest.xml:36:5-37:23
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:36:22-65
+application
+ADDED from D:\police\Security\AndroidManifest.xml:42:5-102:19
+	android:label
+		ADDED from D:\police\Security\AndroidManifest.xml:46:9-41
+	android:allowBackup
+		ADDED from D:\police\Security\AndroidManifest.xml:44:9-35
+	android:icon
+		ADDED from D:\police\Security\AndroidManifest.xml:45:9-42
+	android:theme
+		ADDED from D:\police\Security\AndroidManifest.xml:47:9-44
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:43:9-60
+receiver#com.wen.security.BootReceiver
+ADDED from D:\police\Security\AndroidManifest.xml:49:9-57:20
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:49:19-63
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.category.DEFAULT
+ADDED from D:\police\Security\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\police\Security\AndroidManifest.xml:53:17-79
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:53:25-76
+category#android.intent.category.DEFAULT
+ADDED from D:\police\Security\AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:55:27-73
+activity#com.wen.security.ui.MainActivity
+ADDED from D:\police\Security\AndroidManifest.xml:59:10-71:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:62:13-50
+	android:label
+		ADDED from D:\police\Security\AndroidManifest.xml:61:13-45
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:60:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\police\Security\AndroidManifest.xml:63:13-67:29
+action#android.intent.action.MAIN
+ADDED from D:\police\Security\AndroidManifest.xml:64:17-69
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:64:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\police\Security\AndroidManifest.xml:66:17-77
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:66:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\police\Security\AndroidManifest.xml:68:13-70:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\police\Security\AndroidManifest.xml:69:17-90
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:69:25-87
+activity#com.wen.security.ui.ActivityGo
+ADDED from D:\police\Security\AndroidManifest.xml:72:9-75:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:74:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:73:13-58
+activity#com.wen.security.ui.ActivityImGo
+ADDED from D:\police\Security\AndroidManifest.xml:76:9-79:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:78:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:77:13-60
+activity#com.wen.security.ui.ActivityGunback
+ADDED from D:\police\Security\AndroidManifest.xml:80:9-83:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:82:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:81:13-63
+activity#com.wen.security.ui.ActivityKeep
+ADDED from D:\police\Security\AndroidManifest.xml:84:9-87:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:86:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:85:13-60
+activity#com.wen.security.ui.ActivityQuery
+ADDED from D:\police\Security\AndroidManifest.xml:88:9-91:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:90:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:89:13-61
+activity#com.wen.security.ui.ActivityStatus
+ADDED from D:\police\Security\AndroidManifest.xml:92:9-95:20
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:94:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:93:13-62
+activity#com.wen.security.ui.SettingsActivity
+ADDED from D:\police\Security\AndroidManifest.xml:97:9-99:15
+	android:screenOrientation
+		ADDED from D:\police\Security\AndroidManifest.xml:98:13-50
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:97:19-54
+service#com.wen.security.utils.UploadService
+ADDED from D:\police\Security\AndroidManifest.xml:100:9-101:19
+	android:name
+		ADDED from D:\police\Security\AndroidManifest.xml:100:18-69

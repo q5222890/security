@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:padding="5dp" >
+
+    <TextView
+        android:id="@+id/ac_top_temper_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:text="温度：20℃" />
+
+    <ImageView
+        android:id="@+id/ac_top_temper_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/ac_top_temper_txt"
+        android:background="@drawable/ac_top_temper" />
+
+    <TextView
+        android:id="@+id/ac_top_power_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="25dp"
+        android:layout_toLeftOf="@id/ac_top_temper_img"
+        android:text="供电正常" />
+
+    <ImageView
+        android:id="@+id/ac_top_power_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/ac_top_power_txt"
+        android:background="@drawable/ac_top_power" />
+
+    <TextView
+        android:id="@+id/ac_top_net_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@id/ac_top_power_img"
+        android:text="网络状态" />
+
+    <ImageView
+        android:id="@+id/ac_top_net_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/ac_top_net_txt"
+        android:background="@drawable/ac_top_net" />
+
+    <TextView
+        android:id="@+id/ac_top_date_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@id/ac_top_net_img"
+        android:text="网络状态" />
+
+    <ImageView
+        android:id="@+id/ac_top_date_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@id/ac_top_date_txt"
+        android:background="@drawable/ac_top_date" />
+
+    <ImageButton
+        android:id="@+id/ac_top_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/ac_top_back" />
+
+</RelativeLayout>
